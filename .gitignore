@@ -1,0 +1,12 @@
+# build
+*.exe
+
+# IntelliJ
+.idea
+*.iml
+
+# Tmp
+*.tmp
+
+# Swagger
+swagger.zip
