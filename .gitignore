@@ -1,5 +1,6 @@
 # build
 *.exe
+ebook-homebrew-pdf-converter
 
 # IntelliJ
 .idea
@@ -8,5 +9,6 @@
 # Tmp
 *.tmp
 
-# Swagger
-swagger.zip
+# go modules
+*.sum
+
