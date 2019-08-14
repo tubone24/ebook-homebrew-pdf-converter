@@ -10,4 +10,8 @@ Use Go modules, so you should install go (>=11.2)
 $ go build
 ```
 
+# Run
 
+```
+$ go run main.go
+```
