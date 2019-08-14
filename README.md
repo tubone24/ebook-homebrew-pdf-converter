@@ -2,10 +2,12 @@
 
 > Make pdf file which you use e-books by take in some image files such as jpeg, png and gif.
 
-# How to use
+# Setup
 
-Run Server with create Swagger API.
+Use Go modules, so you should install go (>=11.2)
 
 ```
-bee run -downdoc=true -gendoc=true
+$ go build
 ```
+
+
